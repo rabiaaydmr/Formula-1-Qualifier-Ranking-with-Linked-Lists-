@@ -1,0 +1,2 @@
+# Formula-1-Qualifier-Ranking-with-Linked-Lists-
+In this homework, you are asked to implement a program that calculates the starting positions of Formula 1 drivers. This program must use a Linked List structure to store names of the drivers and their best lap times in a sorted fashion. Driver names and lap times are going to be read from a text file. The program details will be explained in the subsequent sections.   
